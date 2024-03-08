@@ -1,0 +1,23 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.hello{
+    width: 100%;
+    height: 100%;
+    background-color: #222831;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hello h1{
+    color: #EEEEEE;
+    font-size: 4rem;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    
+}
